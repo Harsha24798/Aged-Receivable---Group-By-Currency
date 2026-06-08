@@ -3,7 +3,7 @@
     'version': '19.0.1.0.0',
     'category': 'Accounting/Accounting',
     'summary': 'Add a "Group by Currency" filter to the Aged Receivable report',
-    'author': 'Your Name',
+    'author': 'Harsha Madushan',
     'depends': [
         'account_reports',
     ],
